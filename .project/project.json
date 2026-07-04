@@ -1,0 +1,46 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "project_id": "p_wkw1",
+  "author": {
+    "id": "1054998978"
+  },
+  "entry": "main.lua",
+  "version": "1.0.8",
+  "taptap_publish": {
+    "title": "哎！你丫别跑！",
+    "description": "《哎！你丫别跑！》游戏简介\n\n《哎！你丫别跑！》是一款充满背叛、追逐与欢笑的多人生存派对游戏。\n\n在神秘毒雾笼罩的黑夜中，玩家将化身性格各异的猪猪角色，在不断缩小的毒圈内展开一场紧张刺激的生存竞赛。每轮开始后，危险的毒药会随机附着在玩家身上，只有通过追逐、碰撞或互动，才能将毒药转移给其他玩家。\n\n随着倒计时 5、4、3、2、1 结束，中毒者将遭受致命惩罚，而幸存者则继续迎接下一轮挑战。地图中的解药、舒适区、黑夜事件以及不断收缩的毒圈，都将改变局势，让每一次选择都充满变数。\n\n是选择相信队友，还是背后下手？\n是拼命逃跑，还是主动出击？\n当最后一秒到来时，没有人知道谁会成为下一个倒霉蛋。\n\n躲避毒药，陷害对手，活到最后！\n\n因为在这里——\n\n「毒药会轮换，友情会变质，而你最好别停下脚步！」\n\n《哎！你丫别跑！》\n一场关于追逐、欺骗与生存的欢乐大乱斗，即将开始。",
+    "category": "action",
+    "screen_orientation": "landscape",
+    "collection_type": "sce",
+    "trial_note": "做好玩法好体验，创新与自我反省，收集反馈，总结复盘",
+    "app_platforms": "1,2",
+    "developer_id": 346789,
+    "app_id": 865291,
+    "miniapp_id": "tapmcq0elsqtj0gxkd",
+    "gameplay_demo_video_source": "https://tapcode-sce.spark.xd.com/videos/034eb62a-6159-4de4-b7e6-ab0efd0ae329/1780305823166-uploaded_4291e092.mp4"
+  },
+  "assets": {
+    "icon": "./game_material/icon.png",
+    "screenshots": [
+      "./game_material/screenshot_1.png",
+      "./game_material/screenshot_2.png",
+      "./game_material/screenshot_3.png"
+    ],
+    "promotional_image": "./game_material/PROMO_2026-06-01T03-53-30_01.jpg",
+    "promotional_image_url": "https://tapcode-sce.spark.xd.com/assets/game_material/哎！你丫别跑！/PROMO_2026-06-01T03-53-30_01.jpg",
+    "icon_url": "https://tapcode-sce.spark.xd.com/assets/game_material/p_wkw1/icon.png",
+    "screenshot_urls": [
+      "https://tapcode-sce.spark.xd.com/assets/game_material/p_wkw1/screenshot_1.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/p_wkw1/screenshot_2.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/p_wkw1/screenshot_3.png"
+    ],
+    "cover_vertical": "./.project/game_material/COVER_VERTICAL_2026-06-01T03-54-18_01.png",
+    "cover_vertical_url": "https://tapcode-sce.spark.xd.com/assets/game_material/哎！你丫别跑！/COVER_VERTICAL_2026-06-01T03-54-18_01.png",
+    "cover_horizontal": "./.project/game_material/COVER_HORIZONTAL_2026-06-01T03-54-18_01.png",
+    "cover_horizontal_url": "https://tapcode-sce.spark.xd.com/assets/game_material/哎！你丫别跑！/COVER_HORIZONTAL_2026-06-01T03-54-18_01.png"
+  },
+  "metadata": {
+    "updated_at": "2026-06-01T04:03:36.367Z",
+    "promo_dependent_hash": "0d1a8983de13cfcc40dbdeaa39f11e49"
+  }
+}
